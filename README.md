@@ -4,4 +4,5 @@ In whatever case that my OS X Mojave installation gets fucked, reinstall using *
 
 Display scaling file will be placed as such: 
 HDD/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-30e4/DisplayProductID-2d3
+
 **The overrides folder may be hidden.**
